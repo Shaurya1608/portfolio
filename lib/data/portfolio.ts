@@ -1,7 +1,7 @@
 import type { PortfolioData } from "@/types/portfolio";
 
 export const portfolio: PortfolioData = {
-  name: "Your Name",
+  name: "SHAURYA KUMAR",
   role: "Full-Stack Developer",
   tagline:
     "I build scalable, performant web applications and delightful user experiences.",
@@ -10,11 +10,11 @@ export const portfolio: PortfolioData = {
     "I am a full-stack engineer passionate about building practical, high-impact products. I focus on clean architecture, great DX, and accessible UX. I enjoy shipping fast and iterating with real user feedback.",
   resumeUrl: "https://your-resume-link.com",
   avatarUrl: "", // optional avatar URL
-  email: "you@example.com",
-  phone: "",
+  email: "shaurya098n@gmail.com",
+  phone: "6200713833",
   socials: [
-    { platform: "github", url: "https://github.com/your-username" },
-    { platform: "linkedin", url: "https://www.linkedin.com/in/your-username/" },
+    { platform: "github", url: "https://github.com/Shaurya1608" },
+    { platform: "linkedin", url: "https://www.linkedin.com/in/shaurya-kumar-1487aa365/" },
     { platform: "website", url: "https://your-domain.com" },
     { platform: "email", url: "mailto:you@example.com" },
   ],
@@ -41,34 +41,6 @@ export const portfolio: PortfolioData = {
   ],
   projects: [
     {
-      id: "ai-enhanced-ecommerce",
-      title: "AI-Enhanced Full-Stack eCommerce Platform",
-      subtitle: "Modern, scalable, and production-ready",
-      description:
-        "A modern and fully scalable eCommerce application built with Next.js, Node.js, Express, MongoDB, and Stripe. Includes product listings, cart, secure checkout, payments, order tracking, and an admin dashboard with real-time updates and modular architecture.",
-      tech: [
-        "Next.js",
-        "React",
-        "Tailwind CSS",
-        "Zustand/Context API",
-        "Axios",
-        "Framer Motion",
-        "Node.js",
-        "Express",
-        "MongoDB",
-        "JWT",
-        "Stripe",
-      ],
-      highlights: [
-        "End-to-end commerce flow with checkout sessions",
-        "Admin dashboard and order management",
-        "Modular architecture and real-time updates",
-      ],
-      demoUrl: "https://your-demo-link.com/ai-enhanced-ecommerce",
-      repoUrl: "https://github.com/your-username/ai-enhanced-ecommerce",
-      imageUrl: "",
-    },
-    {
       id: "fullstack-ecommerce",
       title: "Full-Stack E-Commerce App",
       subtitle: "Authentication, Cart, Payments, Admin",
@@ -80,8 +52,8 @@ export const portfolio: PortfolioData = {
         "Stripe-powered payments",
         "Admin dashboard for product and order management",
       ],
-      demoUrl: "https://your-demo-link.com/fullstack-ecommerce",
-      repoUrl: "https://github.com/your-username/fullstack-ecommerce",
+      demoUrl: "https://e-commerce-7-8vto.onrender.com/",
+      repoUrl: "https://github.com/Shaurya1608/E-Commerce-",
       imageUrl: "",
     },
     {
@@ -112,8 +84,8 @@ export const portfolio: PortfolioData = {
         "Optimized backend events and scalable rooms",
         "Production-ready deployment configuration",
       ],
-      demoUrl: "https://your-demo-link.com/realtime-chat",
-      repoUrl: "https://github.com/your-username/realtime-chat",
+      demoUrl: "https://chat-app-39mod.sevalla.app/login",
+      repoUrl: "https://github.com/Shaurya1608/chat-app",
       imageUrl: "",
     },
     {
@@ -128,8 +100,8 @@ export const portfolio: PortfolioData = {
         "Secure auth and user profiles",
         "Clean, accessible UI",
       ],
-      demoUrl: "https://your-demo-link.com/smartdent-ai",
-      repoUrl: "https://github.com/your-username/smartdent-ai",
+      demoUrl: "https://smart-dent-ai-app.vercel.app/dashboard",
+      repoUrl: "https://github.com/Shaurya1608/Smart-Dent-AI-APP",
       imageUrl: "",
     },
     {
@@ -144,8 +116,8 @@ export const portfolio: PortfolioData = {
         "Responsive and sleek UI",
         "Search and playback features",
       ],
-      demoUrl: "https://your-demo-link.com/spotify-clone",
-      repoUrl: "https://github.com/your-username/spotify-clone",
+      demoUrl: "https://spotify-clone-green-theta-99.vercel.app/",
+      repoUrl: "https://github.com/Shaurya1608/Spotify-Clone",
       imageUrl: "",
     },
     {
@@ -160,8 +132,8 @@ export const portfolio: PortfolioData = {
         "Category filters and wishlist",
         "Firebase Auth integration",
       ],
-      demoUrl: "https://your-demo-link.com/thrifty-clothing",
-      repoUrl: "https://github.com/your-username/thrifty-clothing",
+      demoUrl: "https://thrifty-clothing-frontend.vercel.app/",
+      repoUrl: "https://github.com/Shaurya1608/Thrifty-Clothing-Frontend",
       imageUrl: "",
     },
   ],
